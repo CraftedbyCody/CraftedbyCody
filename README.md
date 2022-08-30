@@ -9,7 +9,7 @@
 
 - 👨‍💻 Want to see more of my projects, or look into the freelancing services I offer? Check out my portfolio @ [https://craftedbycody.netlify.app/](https://craftedbycody.netlify.app/)
 
-- 📄 Want to dig deeper into my experience? Check out my resume @ [(resume link to come)]((resume link to come))
+- 📄 Want to dig deeper into my experience? [(Check out my resume!)]((https://docs.google.com/document/d/1ZhIkak4zQVgQOzcfo4zoysLCUd-1aO4A/edit?usp=sharing&ouid=108223413109561243745&rtpof=true&sd=true))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
