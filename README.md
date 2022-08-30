@@ -1,5 +1,5 @@
-<h1 align="center">Hello fellow programming magicians! I am known as Cody Patrick Franklin.</h1>
-<h3 align="center">I am a full-stack software engineer who dabbles in content/copywriting as well. I practice both wordcraft and codecraft. After writing many blogs, articles and marketing bits for various websites, I decided to try something different: Why not write the websites themselves, too? If carefully casted code and written word wizardry are what you seek, behold!</h3>
+<h1 align="center">Hello my fellow digital dungeon dwellers! You can call me Cody Patrick Franklin.</h1>
+<h3 align="center">Copywriter-turned-coder, I’ve practiced wordcraft AND codecraft. Before the calamity of Covid, I strung together sentences for marketing, PR and SEO. I had just set out on my own when the world fell apart, and with it, my hopes of going solo. However, I had already been flailing about trying to make my own website. I quickly found the challenge of BUILDING something in a programming language was just as captivating as DESCRIBING it in the English language. From there I shifted through the stack, got caught in the web, and became a MERN magician. Now I’m searching for a bigger band of adventurers to overcome exciting new challenges together, bringing my carefully casted code and written word wizardry. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=craftedbycody&label=Profile%20views&color=0e75b6&style=flat" alt="craftedbycody" /> </p>
 
